@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/bin/Debug/net6.0/VariavelFlutuante
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/bin/Debug/net6.0/VariavelFlutuante.deps.json
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/bin/Debug/net6.0/VariavelFlutuante.runtimeconfig.json
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/bin/Debug/net6.0/VariavelFlutuante.dll
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/bin/Debug/net6.0/VariavelFlutuante.pdb
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.AssemblyInfo.cs
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.dll
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/refint/VariavelFlutuante.dll
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.pdb
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/VariavelFlutuante.genruntimeconfig.cache
+/home/codigocafe/www/project/alura.csharp/VariavelFlutuante/obj/Debug/net6.0/ref/VariavelFlutuante.dll

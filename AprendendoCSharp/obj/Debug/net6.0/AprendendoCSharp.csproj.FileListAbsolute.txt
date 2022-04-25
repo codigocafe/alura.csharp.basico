@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.deps.json
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.runtimeconfig.json
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.dll
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.pdb
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.AssemblyInfo.cs
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.dll
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/refint/AprendendoCSharp.dll
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.pdb
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.genruntimeconfig.cache
+/home/codigocafe/www/project/aula-csharp/AprendendoCSharp/obj/Debug/net6.0/ref/AprendendoCSharp.dll

@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.deps.json
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.runtimeconfig.json
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.dll
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/bin/Debug/net6.0/CriandoVariaveis.pdb
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.AssemblyInfo.cs
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.dll
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/refint/CriandoVariaveis.dll
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.pdb
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/CriandoVariaveis.genruntimeconfig.cache
+/home/codigocafe/www/project/aula-csharp/CriandoVariaveis/obj/Debug/net6.0/ref/CriandoVariaveis.dll

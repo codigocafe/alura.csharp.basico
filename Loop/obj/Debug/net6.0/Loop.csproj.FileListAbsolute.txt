@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/alura.csharp/Loop/bin/Debug/net6.0/Loop
+/home/codigocafe/www/project/alura.csharp/Loop/bin/Debug/net6.0/Loop.deps.json
+/home/codigocafe/www/project/alura.csharp/Loop/bin/Debug/net6.0/Loop.runtimeconfig.json
+/home/codigocafe/www/project/alura.csharp/Loop/bin/Debug/net6.0/Loop.dll
+/home/codigocafe/www/project/alura.csharp/Loop/bin/Debug/net6.0/Loop.pdb
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.AssemblyInfo.cs
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.dll
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/refint/Loop.dll
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.pdb
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/Loop.genruntimeconfig.cache
+/home/codigocafe/www/project/alura.csharp/Loop/obj/Debug/net6.0/ref/Loop.dll

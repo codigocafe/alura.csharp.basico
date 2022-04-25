@@ -1,0 +1,15 @@
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/bin/Debug/net6.0/ConverterTiposNumericos
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/bin/Debug/net6.0/ConverterTiposNumericos.deps.json
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/bin/Debug/net6.0/ConverterTiposNumericos.runtimeconfig.json
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/bin/Debug/net6.0/ConverterTiposNumericos.dll
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/bin/Debug/net6.0/ConverterTiposNumericos.pdb
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.csproj.AssemblyReference.cache
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.AssemblyInfoInputs.cache
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.AssemblyInfo.cs
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.csproj.CoreCompileInputs.cache
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.dll
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/refint/ConverterTiposNumericos.dll
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.pdb
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ConverterTiposNumericos.genruntimeconfig.cache
+/home/codigocafe/www/project/alura.csharp/ConverterTiposNumericos/obj/Debug/net6.0/ref/ConverterTiposNumericos.dll
